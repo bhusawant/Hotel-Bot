@@ -1,0 +1,40 @@
+
+You : Hello 
+Jarvis : Yes, I remember your hotel name is Taj.
+
+You : None 
+Jarvis : None
+You : show me the facilities 
+Jarvis : The Taj Mahal Palace Hotel offers a variety of facilities and services for guests, including a swimming pool, a fitness center, a business center, and a spa.
+You : show me the nearby places 
+Jarvis : Some of the nearby places include the Gateway of India, the Taj Mahal, and the Red Fort.
+You : nearby places 
+Jarvis : Some of the nearby places include the Gateway of India, the Taj Mahal, and the Red Fort.
+You : show me nearby places 
+Jarvis : Some of the nearby places include the Gateway of India, the Taj Mahal, and the Red Fort.
+You : show me facilities 
+Jarvis : The Taj Mahal Palace Hotel offers a variety of facilities and services for guests, including a swimming pool, a fitness center, a business center, and a spa.
+You : how far the Colaba from the Taj Hotel 
+Jarvis : The Colaba is about 3 kilometers from the Taj Hotel.
+You : so how can we go for Taj 
+Jarvis : There are a few options for getting to the Taj Mahal from the Taj Hotel. You can take a taxi, an auto-rickshaw, or the metro.
+You : None 
+Jarvis : None
+You : ho rahi hai dekh 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please rephrase your question?
+You : None 
+Jarvis : None
+You : terminate 
+Jarvis : Thank you for using the Taj Mahal Palace Hotel Jarvis. Have a great day!
+You : show me nearby places 
+Jarvis : Some of the nearby places include the Gateway of India, the Taj Mahal, and the Red Fort.
+You : yah Kya Ho Gaya 
+Jarvis : I'm sorry, I don't understand what you're trying to say. Can you please rephrase your question?
+You : show me some facilities 
+Jarvis : The Taj Mahal Palace Hotel offers a variety of facilities and services for guests, including a swimming pool, a fitness center, a business center, and a spa.
+You : None 
+Jarvis : None
+You : None 
+Jarvis : None
+You : None 
+Jarvis : Thank you for using the Taj Mahal Palace Hotel Jarvis. Have a great day!

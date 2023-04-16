@@ -1,0 +1,3 @@
+use team;
+
+create table signup(`Full Name` varchar(45), `Email Id` varchar(45) PRIMARY KEY, Password varchar(45))
