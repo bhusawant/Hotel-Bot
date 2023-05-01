@@ -32,17 +32,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 ...
 
-# browser.find_element_by_id('show-alert').click()
-
-# try:
-#     WebDriverWait(browser, 5).until(EC.alert_is_present(), 'Timed out waiting for alerts to appear')
-#     alert = browser.switch_to.alert
-#     alert.accept()
-# except TimeoutException:
-#     print ("Timeout and No Alert Appearing")
-
-
-
 
 chrome_options = Options()
 chrome_options.add_argument('--log-level=3')  # avoid unecessary msgs from selenium
@@ -114,7 +103,6 @@ class MainThread(QThread):
             print("")
             print("Listening....")
             r.pause_threshold = 1
-            # audio = r.listen(source, 0, 8)
             audio = r.listen(source)
 
         try:
@@ -161,7 +149,6 @@ class MainThread(QThread):
                     prompt=prompt,
                     temperature = 0.5,
                     max_tokens = 30,
-                    # max_tokens = 60,
                     top_p = 0.3,
                     frequency_penalty = 0.5,
                     presence_penalty = 0
